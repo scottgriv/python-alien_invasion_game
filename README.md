@@ -14,6 +14,7 @@ cd /your_folder_path/python-alien_invasion_game
 python3 -m alien_invasion
 ```
 
+**Reference:** [Main Branch](https://github.com/ehmatthes/pcc_2e)
 
 --- 
 Python Crash Course - Second Edition
