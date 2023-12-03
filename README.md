@@ -32,18 +32,24 @@ The code in this repository was created by following a tutorial in a book I read
 
 ## Table of Contents
 
+- [How to Play](#how-to-play)
 - [Getting Started](#getting-started)
 - [Resources](#resources)
 - [License](#license)
 - [Credits](#credits)
 
+## How to Play
+
+- Use the **left** and **right** arrow keys to move the ship.
+- Use the **spacebar** to shoot bullets.
+- Shoot down all the aliens to win the game.
+- If any alien hits the bottom of the screen or collides with the ship, you lose a ship.
+- If you lose three ships, the game ends.
+- Press **Q** to quit the game.
+
 ## Getting Started
 
-To play the game, run the following commands:
-
-```shell
-cd /your_folder_path/python-alien_invasion_game
-```
+To play the game, run the following command from the root directory of the project:
 
 ```shell
 python3 -m alien_invasion
