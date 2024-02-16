@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** Python <br>
 **Category:** Game <br>
-**Order:** 15 <br>
+**Order:** 9 <br>
 
 ## Parameters
 
